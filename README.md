@@ -1,16 +1,13 @@
-## Hi there 👋
+# Halo. Saya M. Haziq Al-Farabi
+## Mahasiswa Teknik Informatika Universitas Malikussaleh (Semester 1)
+**Keahlian & tools yang sedang dipelajari:**
 
-<!--
-**Hzieeq-23/Hzieeq-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Pemograman C / C++
 
-Here are some ideas to get you started:
+-Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Git & GitHub
+
+-visual Studio Code
+
+Kunjungi Profil Saya: [Linkedln](https://lynk.id/haziqdesain/d3yvo8jdz0gm) | [Instagram](https://www.instagram.com/_farabii12?cplk=azJjanp3ZDVqaWM%3D&utm_source=qr)
